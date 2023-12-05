@@ -1,0 +1,15 @@
+{
+  "name": "fast-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
